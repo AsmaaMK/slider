@@ -3,8 +3,8 @@ export const cards = [];
 for (let i = 1; i <= 20; i++) {
     cards.push({ 
         img: 'http://unsplash.it/300/300', 
-        title: `Card ${i}`, 
-        desc: `${i}` 
+        title: `Card ${i}`,
+        desc: `${i}`
     });
 }
 
